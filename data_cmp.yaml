@@ -1,0 +1,5 @@
+train: ./data/train/images
+val: ./data/valid/images
+
+nc: 6
+names: ['hole', 'note', 's_burr', 's_groove', 's_scratch', 't_scratch']
